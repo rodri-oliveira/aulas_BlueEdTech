@@ -1,4 +1,4 @@
-function Student(name, email) {
+    function Student(name, email) {
     this.name = name,
     this.email = email
 }
